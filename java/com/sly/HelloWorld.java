@@ -12,15 +12,8 @@ import java.util.function.ObjDoubleConsumer;
 public class HelloWorld {
 
     public static void main(String[] args) {
-        List<ObjDoubleConsumer> list = new ArrayList<>();
-        System.out.println("90");
-        System.out.println("80");
-        System.out.println("70");
-        System.out.println("12");
-        System.out.println("34");
-        System.out.println("56");
-        System.out.println("999");
-        System.out.println("hello wolii");
-        List<String> str = new ArrayList<>();
+        System.out.println("hello world");
+        System.out.println("fuck the world");
+        System.out.println("hellowwww");
     }
 }
