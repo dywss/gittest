@@ -11,5 +11,8 @@ public class HelloWorld {
         System.out.println("90");
         System.out.println("80");
         System.out.println("70");
+        System.out.println("12");
+        System.out.println("34");
+        System.out.println("56");
     }
 }
