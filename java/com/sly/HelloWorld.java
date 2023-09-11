@@ -1,5 +1,8 @@
 package com.sly;
 
+import java.util.ArrayList;
+import java.util.List;
+
 /**
  * @description:
  * @author: xiaohaotian
@@ -14,5 +17,6 @@ public class HelloWorld {
         System.out.println("12");
         System.out.println("34");
         System.out.println("56");
+        List<String> str = new ArrayList<>();
     }
 }
