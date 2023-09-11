@@ -4,9 +4,6 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.function.ObjDoubleConsumer;
 
-import java.util.ArrayList;
-import java.util.List;
-
 /**
  * @description:
  * @author: xiaohaotian
@@ -23,6 +20,7 @@ public class HelloWorld {
         System.out.println("34");
         System.out.println("56");
         System.out.println("999");
+        System.out.println("hello wol");
         List<String> str = new ArrayList<>();
     }
 }
