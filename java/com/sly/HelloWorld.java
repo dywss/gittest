@@ -8,8 +8,8 @@ package com.sly;
 public class HelloWorld {
 
     public static void main(String[] args) {
-        System.out.println("hello1");
-        System.out.println("fuck the w");
-        System.out.println("hell11");
+        System.out.println("12");
+        System.out.println("34");
+        System.out.println("56");
     }
 }
